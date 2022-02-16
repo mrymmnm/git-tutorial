@@ -1,3 +1,4 @@
+#FizzBuzz j1834moriyama
 (1..30).each do |i|
   if i % 15 = 0
     puts "FizzBuzz"
